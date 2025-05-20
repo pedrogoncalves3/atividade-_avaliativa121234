@@ -4,6 +4,9 @@ import time
 
 os.system("clear")
 
+#Alunos: Pedro Henrique Gonçalves e Uanderson Silva
+
+
 #criar uma class para os dados dos funcionarios
 @dataclass
 class Funcionario:
